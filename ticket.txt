@@ -1,2 +1,8 @@
 WEB PAGE
 This we pages main purpose is to get info of users who want to book a ticket trow online wesite.
+Main compotents:
+1. Full name
+2. Email
+3. Ticket Type
+4. Quality
+5. Event Date
